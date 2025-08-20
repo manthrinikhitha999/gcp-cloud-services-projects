@@ -1,8 +1,9 @@
-
+## YouTube Tutorial: TechWithNikhitha
+Click to watch on YouTube : https://youtu.be/NKQxQjJ28AQ?si=Klo-SijWtjgyMzfy)
 
 # GCP Cloud Storage Project
 
-## Steps with Screenshots
+## Steps with Screenshots 
 
 ### 1. GCS Bucket Creation
 ![GCS Bucket Creation](https://github.com/user-attachments/assets/eea4b25a-c96c-4906-9049-2834dd243bbd)
