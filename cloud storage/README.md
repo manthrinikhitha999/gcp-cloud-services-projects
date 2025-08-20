@@ -8,7 +8,7 @@
 ![GCS Bucket Creation](https://github.com/user-attachments/assets/eea4b25a-c96c-4906-9049-2834dd243bbd)
 
 ### 2. Service Account Creation
-![Service Account Creation](https://github.com/user-attachments/assets/5066bbb76-c770-402d-9498-2d20a9952f5c)
+![Service Account Creation](https://github.com/user-attachments/assets/9388bad6-c839-44e6-a693-3133d2f39a8a)
 
 ### 3. VM Creation
 ![VM Creation](https://github.com/user-attachments/assets/c61f67f9-028f-40b2-a55f-f431845d5a3c)
